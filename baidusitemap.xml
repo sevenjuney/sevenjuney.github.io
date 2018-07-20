@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2018/07/20/01%E6%9C%80%E5%88%9D%E7%9A%84%E6%96%B0%E7%94%9F/</loc>
+    <lastmod>2018-07-20T15:49:50.757Z</lastmod>
+    <data>
+        <display>
+        <title>01最初的新生</title>
+        <pubTime>2018-07-20T15:28:43.000Z</pubTime>
+        
+        <tag>test</tag>
+         
+        <tag>blog</tag>
+         
+        <tag>github</tag>
+         
+        <tag>linux</tag>
+         
+         
+           
+             
+              <breadCrumb title="hexo" url="http://yoursite.com/categories/hexo/"/>
+          
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://yoursite.com/2018/07/20/hello-world/</loc>
+    <lastmod>2018-07-20T10:11:17.392Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2018-07-20T10:11:17.392Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
