@@ -2,9 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://yoursite.com/2018/07/21/%E5%9F%BA%E4%BA%8Egithub%E5%92%8Chexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</loc>
+    
+    <lastmod>2018-07-21T05:08:45.020Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://yoursite.com/book/index.html</loc>
     
-    <lastmod>2018-07-20T16:28:12.719Z</lastmod>
+    <lastmod>2018-07-21T04:09:16.937Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/c1s2.html</loc>
+    
+    <lastmod>2018-07-21T04:07:19.388Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/search_index.json</loc>
+    
+    <lastmod>2018-07-21T04:07:19.115Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/c1.html</loc>
+    
+    <lastmod>2018-07-21T04:07:18.723Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/index.html</loc>
+    
+    <lastmod>2018-07-21T04:07:18.613Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/c2.html</loc>
+    
+    <lastmod>2018-07-21T04:07:18.341Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://yoursite.com/book/code_complete/c1s1.html</loc>
+    
+    <lastmod>2018-07-21T04:07:18.338Z</lastmod>
     
   </url>
   
